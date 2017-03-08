@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/Melga/.m2/repository/junit/junit-dep/4.8.2/junit-dep-4.8.2.jar;C:/Users/Melga/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar'
+-encoding
+'Cp1252'
+-protected
+-sourcepath
+'C:/Users/Melga/workspace/Tarea3/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2017. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Melga/workspace/Tarea3/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Tarea 3 0.0.1-SNAPSHOT API'
+-linkoffline
+'http://docs.oracle.com/javase/8/docs/api' 'C:/Users/Melga/workspace/Tarea3/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Tarea 3 0.0.1-SNAPSHOT API'
